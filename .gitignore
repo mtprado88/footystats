@@ -1,0 +1,5 @@
+*
+!gitdados/
+!gitdados/**
+!.gitignore
+!README.md
