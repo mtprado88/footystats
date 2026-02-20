@@ -1,5 +1,11 @@
+# Ignora tudo
 *
-!gitdados/
-!gitdados/**
+
+# Permite a pasta gitdados (somente local)
+gitdados/
+
+# Permite arquivos essenciais
 !.gitignore
 !README.md
+!database_footystats.xlsx
+
